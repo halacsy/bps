@@ -2,7 +2,7 @@
 
 
 
-A Budapest School egy iskolahálózat, amely olyan iskolák létrehozását teszi lehetővé, amiben a tanulók és szülők igényeire és céljaira a tanárok által vezetett iskola a **legszemélyreszabottabb** környezetet tudja létrehozni és a leginkább tudja támogatni az egyéni érdeklődéshez képest formálódó közösségi tanulást. 
+A Budapest School egy iskolahálózat, amely olyan iskolák létrehozását teszi lehetővé, amiben a tanulók és szülők igényeire és céljaira a tanárok által vezetett iskola **személyreszabott** környezetet tud létrehozni és támogatni tudja az egyéni érdeklődéshez képest formálódó közösségi tanulást. 
 
 {% hint style="info" %}
 A személyreszabott tanulás két dologban is eltér a hagyományos modelltől: 100 évvel ezelőtti iskolákban mindenki ugyanazért a kimenetért dolgozott, és mindenki, mindent ugyanakkor és ugyanúgy tanult, csinált. Ezt hívjuk utólag one size fits all megközelítésnek. Később kialakult a "minden gyerek más" elv mentén az egyéni utak fogalma. Bár mindenki az érettségire készült, differenciáltan próbálták a tanárok átadni a tudást. A mi modellünkben a nemzeti szabványok, az érettségi elérése, az országos kompetencia mérésen való megfelelés követelmény, de nem a tanulás fő célja. Mi azt kérdezzük a tanulóktól, hogy ezen felül mi az ő személyes céljuk. Nálunk a személyreszabott tanulás fő jellegzetessége, hogy a tanulók saját egyéni célok irányába haladnak az ahhoz a célhoz az adott kontextusban leghatékonyabb úton. Tehát mindenki rendelkezik egyéni célokkal, még akkor is, ha egy közösség tagjainak céljai között 80% átfedés is van.
