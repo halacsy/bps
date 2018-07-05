@@ -1,9 +1,5 @@
 # Csoportok, mindennapok szerveződése
 
-
-
-#### 
-
 Nincsenek életkor szerinti osztályok, hanem Independence Level \(NOTE: [https://khanlabschool.org/independence-levels](https://khanlabschool.org/independence-levels)\) vagy a NAT pedagógia szakaszai szerint csoportosítjuk a gyerekeket. Ezek hasonlóak a Montessori kevert korosztályos csoportjához.
 
 1. Óvodás csoport
