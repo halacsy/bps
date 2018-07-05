@@ -6,4 +6,7 @@
 * [Mikroiskolák](amit-egy-szulo.md)
 * [Tanárszervezés](tanarszervezes.md)
 * [Csoportok, mindennapok szerveződése](csoportok-mindennapok-szervezodese.md)
+* [Értékelés, visszajelzés](ertekeles-visszajelzes.md)
+* [NAT megfeleltetes](nat-megfeleltetes.md)
+* [Alapértékek](alapertekek.md)
 
