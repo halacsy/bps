@@ -18,3 +18,4 @@ A Budapest School iskolák célja, hogy jól átlátható, követhető és folya
 
 **Tanuló iskolák**: Mindig, minden módszer, folyamat fejleszthető, ezért a tanárok feladata, lehetősége, hogy az aktuális helyzethez illő legalkalmasabb módszert válasszák a tanulás segítéséhez.
 
+A mikroiskolák, alapértékeink egyezése mellett önálló, demokratikus közösségként működnek. Szabályaikat, szokásaikat, a közös élet rendjét a gyerekekkel együtt alakítják ki. Többségi döntések helyett konszenzusra törekedve heti rendszerességgel beszélnek, döntenek az egész közösséget érintő dolgokról. A gyerekek és a felnőttek egyenrangú tagjai ennek a közösségnek, javaslatokat terjesztenek a közösség elé, például a foglalkozások idejéről, az ebédelés mikéntjéről, vagy arról, milyen következménye legyen a közösség valamelyik szabályának megszegésének
